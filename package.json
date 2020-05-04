@@ -1,6 +1,6 @@
 {
   "name": "com.teodiaz.levelgrid",
-  "version": "0.1.0",
+  "version": "0.5.2",
   "displayName": "Level Grid",
   "description": "Tool for creating custom grids",
   "keywords": [
@@ -14,5 +14,5 @@
     "email": "diaz.teo@outlook.com",
     "url": "https://github.com/DiazTeo"
   },
-    "type": "tool"
-  }
+  "type": "tool"
+}
