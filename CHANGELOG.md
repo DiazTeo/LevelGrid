@@ -19,5 +19,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Snap to Grid option
 - Static Grid option
 
-[0.1.0]: https://github.com/DiazTeo/LevelGrid/tree/0.5.2
+[0.5.2]: https://github.com/DiazTeo/LevelGrid/tree/0.5.2
 [0.1.0]: https://github.com/DiazTeo/LevelGrid/tree/0.1.0
