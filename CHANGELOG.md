@@ -10,4 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Snap to Grid option
 - Static Grid option
 
-[0.1.0]: https://github.com/DiazTeo/LevelGrid/tree/0.1.0
+[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
